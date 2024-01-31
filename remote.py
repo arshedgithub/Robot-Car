@@ -9,7 +9,7 @@ time.sleep(2)
 
 try:
     serial.write(b'1')
-    
+    print("i am gaveesh")
 
 except KeyboardInterrupt:
     print("Programme terminated...")
